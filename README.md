@@ -4,7 +4,7 @@ You can explore the project by:
 
 1.  **Viewing the Kaggle Notebook:** You can directly access and view the code and output of this project on Kaggle using the following link:
 
-    [**Link to my Kaggle Notebook**]([https://www.kaggle.com/code/ayush1286/ai-personalized-mental-wellness-path-generator])
+    [**Link to my Kaggle Notebook**](https://www.kaggle.com/code/ayush1286/ai-personalized-mental-wellness-path-generator)
 
 ## Demonstrated Gen AI Capabilities
 
