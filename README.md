@@ -2,7 +2,7 @@
 
 You can explore the project by:
 
-1.  **Viewing the Kaggle Notebook:** Click the [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://www.kaggle.com/code/ayush1286/ai-personalized-mental-wellness-path-generator]) badge above to directly open and run the notebook in Google Colab (or view it on Kaggle if you prefer).
+1.  **Viewing the Kaggle Notebook:** Click the [![Open In kaggle]([https://colab.research.google.com/assets/colab-badge.svg](https://www.kaggle.com/code/ayush1286/ai-personalized-mental-wellness-path-generator))]
 
 ## Demonstrated Gen AI Capabilities
 
